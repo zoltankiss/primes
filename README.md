@@ -1,3 +1,7 @@
+# How to run
+
+`ruby print_multiplication_table.rb`
+
 # complexity of `Primes.first_n_primes`
 
 The "[Prime number theorem](http://en.wikipedia.org/wiki/Prime-counting_function)"
